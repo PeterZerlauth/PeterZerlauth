@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Zerlauth
 - 👀 I’m interested in Twincat 3, c#,...
-- 💞️ I’m looking to collaborate on Tc3_Testing
+- 💞️ I’m looking to collaborate on Tc3_Testing, Tc3_Component
 - 📫 [Peter Zerlauth](https://at.linkedin.com/in/peter-zerlauth-177115177)
 
 <!---
